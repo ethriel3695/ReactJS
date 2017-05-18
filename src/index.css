@@ -1,0 +1,66 @@
+body {
+  margin-top: 150px;
+  background-color: #ADD8E6;
+}
+
+.container {
+  width: 580px;
+  color: #ADD8E6;
+}
+
+.blockquote {
+  margin-top: -40px;  
+}
+
+.quoteText {
+  font-size: 30px;
+}
+
+.quoteIcon {
+  font-size: 24px !important;
+}
+
+.quoteAuthor {
+  margin-right: 30px;
+  font-size: 18px;
+}
+
+.quoteButton {
+  background-color: #ADD8E6;
+  border: 0;
+  margin-right: 25px;
+}
+
+.quoteButton:hover {
+  background-color: #ADD8E6;
+  border: 0;
+  cursor: pointer;
+}
+
+.twitterButton {
+  background-color: #ADD8E6;
+  display: inline-block;
+  font-weight: 400;
+  line-height: 1.25;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  padding: .5rem 1rem;
+  font-size: 1rem;
+  border-radius: .25rem;
+  margin-left: 28px;
+}
+
+.twitterButton:hover {
+  background-color: #ADD8E6;
+  border: 0;
+  cursor: pointer;
+}
+
+.fa-twitter {
+  color: #ffffff;
+}
+
+.footerText {
+  color: #FFFFFF;
+}
